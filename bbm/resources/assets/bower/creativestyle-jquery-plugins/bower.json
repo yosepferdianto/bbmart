@@ -1,0 +1,23 @@
+{
+  "name": "creativestyle-jquery-plugins",
+  "version": "1.0.0",
+  "homepage": "https://github.com/creativestyle/jquery-plugins",
+  "authors": [
+    "Filip Sobalski <filip.sobalski@creativestyle.pl>"
+  ],
+  "description": "A set of useful jQuery plugins.",
+  "keywords": [
+    "jQuery",
+    "plugin",
+    "bootstrap",
+    "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

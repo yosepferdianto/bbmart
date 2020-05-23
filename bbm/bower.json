@@ -1,0 +1,7 @@
+{
+  "name": "BBM-Mart",
+  "dependencies": {
+    "jquery": "^3.5.0",
+    "creativestyle-jquery-plugins": "^1.0.0"
+  }
+}
