@@ -11,14 +11,14 @@
 |
 */
 
-/*Route::get('/', function () {
+Route::get('/', function () {
 	if(Auth::check()){
 		return redirect('/account/dashboard');
 	} else {
 		return view('auth.login');
 	}
 });
-*/
+
 Auth::routes();
 Route::group(['middleware' => 'auth'], function () {
 	Route::group(
